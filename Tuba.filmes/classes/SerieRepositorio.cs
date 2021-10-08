@@ -8,20 +8,20 @@ namespace Tuba.Filmes
    public class SerieRepositorio : IRepositorio<Serie>
   {
         private List<Serie> listaSerie = new List<Serie>();
-        
-		public void Atualiza(int id, Serie serie)
+
+		public void Atualiza(int id, Serie objeto)
 		{
-			listaSerie[id] = serie;
+			listaSerie[id] = objeto;
 		}
 
 		public void Exclui(int id)
 		{
-			listaSerie.RemoveAt(id);
+			listaSerie[id].Excluir();
 		}
 
 		public void Insere(Serie serie)
 		{
-			listaSerie.Add(serie);
+			listaSerie.Add(objeto);
 		}
 
 		public List<Serie> Lista()
