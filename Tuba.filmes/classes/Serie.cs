@@ -10,6 +10,8 @@ namespace Tuba.Filmes
        private string Descricao {get; set;} 
 
        private int Ano {get; set;} 
+
+       private bool Excluido {get; set;}
        
        //Métodos do programa
        public Serie(int id, Genero Genero, string título, string Descricao, int Ano)
@@ -19,6 +21,7 @@ namespace Tuba.Filmes
          this.Titulo = Titulo;
          this.Descricao = Descricao;
          this.Ano = Ano; 
+         this.Excluido = false;
        }
 
        public override string ToString()
@@ -41,6 +44,8 @@ namespace Tuba.Filmes
        {
            return this.Id;
        }
-
+       public void Excluir() {
+           this.Excluido = true
+       }
     }
 }
