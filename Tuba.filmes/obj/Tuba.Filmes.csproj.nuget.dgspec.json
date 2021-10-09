@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Tuba.Filmes\\Tuba.Filmes.csproj": {}
+    "C:\\Dio Projetos\\Catalogo-de-Filmes\\Tuba.filmes\\Tuba.Filmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Tuba.Filmes\\Tuba.Filmes.csproj": {
+    "C:\\Dio Projetos\\Catalogo-de-Filmes\\Tuba.filmes\\Tuba.Filmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Tuba.Filmes\\Tuba.Filmes.csproj",
+        "projectUniqueName": "C:\\Dio Projetos\\Catalogo-de-Filmes\\Tuba.filmes\\Tuba.Filmes.csproj",
         "projectName": "Tuba.Filmes",
-        "projectPath": "C:\\Users\\admin\\Tuba.Filmes\\Tuba.Filmes.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Tuba.Filmes\\obj\\",
+        "projectPath": "C:\\Dio Projetos\\Catalogo-de-Filmes\\Tuba.filmes\\Tuba.Filmes.csproj",
+        "packagesPath": "C:\\Users\\vinny\\.nuget\\packages\\",
+        "outputPath": "C:\\Dio Projetos\\Catalogo-de-Filmes\\Tuba.filmes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vinny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

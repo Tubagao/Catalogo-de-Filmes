@@ -4,11 +4,9 @@ using Tuba.Filmes.Interfaces;
 
 namespace Tuba.Filmes
 {
-   
-   public class SerieRepositorio : IRepositorio<Serie>
-  {
+	public class SerieRepositorio : IRepositorio<Serie>
+	{
         private List<Serie> listaSerie = new List<Serie>();
-
 		public void Atualiza(int id, Serie objeto)
 		{
 			listaSerie[id] = objeto;
@@ -19,7 +17,7 @@ namespace Tuba.Filmes
 			listaSerie[id].Excluir();
 		}
 
-		public void Insere(Serie serie)
+		public void Insere(Serie objeto)
 		{
 			listaSerie.Add(objeto);
 		}
@@ -29,14 +27,19 @@ namespace Tuba.Filmes
 			return listaSerie;
 		}
 
-		public Serie RetornaPorId(int id)
-		{
-			return listaSerie[id];
-		}
-
 		public int ProximoId()
 		{
 			return listaSerie.Count;
 		}
+
+        public Serie RertornaPorId(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Serie RetornaPorId(int id)
+		{
+			return listaSerie[id];
+		}
 	}
-} 
+}

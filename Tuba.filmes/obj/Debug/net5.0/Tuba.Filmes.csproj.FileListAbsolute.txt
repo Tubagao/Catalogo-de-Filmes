@@ -1,0 +1,16 @@
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.csproj.AssemblyReference.cache
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.AssemblyInfoInputs.cache
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.AssemblyInfo.cs
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.csproj.CoreCompileInputs.cache
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.exe
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.deps.json
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.runtimeconfig.json
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.runtimeconfig.dev.json
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.dll
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\ref\Tuba.Filmes.dll
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\bin\Debug\net5.0\Tuba.Filmes.pdb
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.dll
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\ref\Tuba.Filmes.dll
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.pdb
+C:\Dio Projetos\Catalogo-de-Filmes\Tuba.filmes\obj\Debug\net5.0\Tuba.Filmes.genruntimeconfig.cache
